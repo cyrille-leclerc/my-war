@@ -1,0 +1,54 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+# https://github.com/takari/maven-wrapper#usage-without-binary-jar
+.mvn/wrapper/maven-wrapper.jar
+
+
+# Jenkins
+work/
+
+# Intellij
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings
+bin/
+
+# NetBeans
+/.nb-gradle
+/.nb-gradle-properties
+
+# VS Code
+.vscode
+
+# OS X
+.DS_Store
+
+# Emacs
+*~
+\#*\#
+
+# Vim
+.swp
+
+# Project specific ignores
+.otel/
+.prometheus-otel/
+*.log
+
+private/
+
+
+
+
