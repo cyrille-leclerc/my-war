@@ -27,6 +27,12 @@
   </dependencies>
 
   <build>
-
+    <extensions>
+      <extension>
+          <groupId>io.opentelemetry.contrib</groupId>
+          <artifactId>opentelemetry-maven-extension</artifactId>
+          <version>1.7.0-alpha</version>
+      </extension>
+    </extensions>
   </build>
 </project>
