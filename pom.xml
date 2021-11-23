@@ -28,11 +28,11 @@
 
   <build>
         <extensions>
-            <extension>
-                <groupId>co.elastic.opentelemetry.contrib</groupId>
-                <artifactId>opentelemetry-maven-extension</artifactId>
-                <version>0.1.0-beta-5</version>
-            </extension>
+          <extension>
+              <groupId>io.opentelemetry.contrib</groupId>
+              <artifactId>opentelemetry-maven-extension</artifactId>
+              <version>1.7.0-alpha</version>
+          </extension>
         </extensions>
   </build>
 </project>
