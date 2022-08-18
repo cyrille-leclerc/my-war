@@ -31,7 +31,7 @@
       <extension>
           <groupId>io.opentelemetry.contrib</groupId>
           <artifactId>opentelemetry-maven-extension</artifactId>
-          <version>1.13.0-alpha</version>
+          <version>1.16.0-alpha</version>
       </extension>
     </extensions>
   </build>
