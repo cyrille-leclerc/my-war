@@ -35,11 +35,13 @@
       </plugin>
     </plugins>
     <extensions>
+      <!--
       <extension>
         <groupId>io.opentelemetry.contrib</groupId>
         <artifactId>opentelemetry-maven-extension</artifactId>
-        <version>1.37.0-alpha</version>
+        <version>1.38.0-alpha-SNAPSHOT</version>
       </extension>
+      -->
     </extensions>
   </build>
 </project>
