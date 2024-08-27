@@ -1,0 +1,12 @@
+plugins {
+    id 'war'
+    id 'com.atkinsondev.opentelemetry-build' version "1.14.0"
+}
+
+dependencies {
+    testImplementation "junit:junit:4.13.2"
+}
+
+openTelemetryBuild {
+    endpoint = "http://localhost:4317"
+}
