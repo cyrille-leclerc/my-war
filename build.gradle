@@ -10,3 +10,7 @@ dependencies {
 openTelemetryBuild {
     endpoint = "http://localhost:4317"
 }
+
+repositories {
+    mavenCentral()
+}
